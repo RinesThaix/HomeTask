@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00e72e0c-07ef-4f6a-9b17-dbc50d0516d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1niM3KAR93j4JjhHksearG6h4Sz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/main_test" />
+      <recent name="$PROJECT_DIR$/shared/event" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestConsistencyParallel in github.com/RinesThaix/homeTask/main">
+    <configuration name="TestArray in github.com/RinesThaix/homeTask/util" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="homeTask" />
+      <working_directory value="$PROJECT_DIR$/util" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/RinesThaix/homeTask/util" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestArray\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConsistencyParallel in github.com/RinesThaix/homeTask/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="homeTask" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/RinesThaix/homeTask/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestConsistencyParallel\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOperations in github.com/RinesThaix/homeTask/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="homeTask" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/RinesThaix/homeTask/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestOperations\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSpeed in github.com/RinesThaix/homeTask/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="homeTask" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/RinesThaix/homeTask/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSpeed\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestConsistencyParallel in github.com/RinesThaix/homeTask/main" />
+        <item itemvalue="Go Test.TestOperations in github.com/RinesThaix/homeTask/main" />
+        <item itemvalue="Go Test.TestArray in github.com/RinesThaix/homeTask/util" />
+        <item itemvalue="Go Test.TestSpeed in github.com/RinesThaix/homeTask/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1612024603423">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1612024603423" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1612024603422">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1612024603422" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1612024603422">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1612024603422" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1612024603423">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1612024603423" />
+    <state x="421" y="178" width="598" height="490" key="find.popup" timestamp="1611988889015">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="421" y="178" width="598" height="490" key="find.popup/0.23.1440.801@0.23.1440.801" timestamp="1611988889015" />
+  </component>
+</project>
